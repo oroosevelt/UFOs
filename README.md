@@ -21,6 +21,7 @@ The image shows an example of all UFO sightings reported in the state of "fl". T
 
 
 ## Summary
+One drawback from this webpage is the the lack of a "Filter" button. Some users may not be as tech savy as most and not realize they would have to hit the "Enter" button on their keyboard. As a user, regardless of your technilogical background, there should always be accessibility.
 
-The summary addresses one drawback of this webpage (2 pt)
-The summary addresses two additional recommendations for further development (4 pt)
+For further development, I recommend the allowable input value should be expanded. This will give the user the capability of filtering the search with ease and less of running into empty data. I also would recommend a drop down list in the filter criteria. As we all know, users do not read our minds when we develop webpages, therefore they will run into frustrations if they continously enter the incorrect search criteria and receive no information in return. Aesthetically, the webpage looks fantastic, but I would prefer something more user friendly. 
+
